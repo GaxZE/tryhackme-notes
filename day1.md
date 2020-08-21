@@ -6,9 +6,11 @@ Login with credentials.
 Open browsers inspector and inspect the cookie.
 
 ## If you decode the cookie, what is the value of the fixed part of the cookie?
-Key part of the question is the 'fixed part'.
+Decoding the cookie, it looked like `base64` encoding so I simply used this to decode: `echo <cookie> | base64 --decode`.
 
-I noticed it was in a format: `myusernamev4er9ll1!ss`
+Key part of the question is then 'the fixed part'.
+
+I noticed it was in a format: `<myusername>v4er9ll1!ss`
 
 
 ## After accessing his account, what did the user mcinvetory request?
