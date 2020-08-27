@@ -1,6 +1,6 @@
 # Day 6
 
-So I am given a holidaytheif.pcap file which I open in wireshark. 
+So I am given a `holidaytheif.pcap` file which I open in wireshark. 
 
 Reading the support material I am notified that there are several Data Exfiltration techniques. Namely:
 - DNS
