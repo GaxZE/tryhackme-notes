@@ -1,6 +1,6 @@
 # Day 4
 
-## How many files are visible?
+## How many files are visible?
 Simple task, but pay attention to the question. `ls -la` shows all hidden files. 
 
 ## What is the content of file5?
