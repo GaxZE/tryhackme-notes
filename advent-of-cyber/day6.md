@@ -13,9 +13,9 @@ Reading the support material I am notified that there are several Data Exfiltrat
 
 I am notified to look for things that don't seem right to determine malicious traffic. 
 
-I spot a domain and I look know this isn't right.
+I spot a domain and I know this isn't looking right.
 
-The document further tells me I am able to export all objects for further analysis.
+The support document further tells me I am able to export all objects for further analysis.
 
 I am given 3 files:
 - Zip file
