@@ -34,3 +34,7 @@ This was simpler, I had the files I installed fcrackzip and I was able to crack 
 I installed steghide as instructed but was slightly delayed in understanding that when steghide asked for a passphrase I can just hit enter(_no passphrase given_) and the files would come out. I thought I needed to find the passphrase first. 
 
 Once I hit enter I was then given the file hidden within the image and thus the flag.
+
+The flag however wasn't easily noticable via the question. I thought the flag originally was a 'poem' or something. But it's contents and subsequent RFC code. RFC stands for Request for comment. I need to read up on these and why they exist.
+
+Seemingly this one was an april fools: https://en.wikipedia.org/wiki/April_Fools%27_Day_Request_for_Comments
