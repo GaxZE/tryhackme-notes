@@ -11,7 +11,7 @@ In order to achieve this, I need to scan all TCP ports within the range of 1-100
 This was done with: `-p 1-1000` as the flag.
 
 ## What is the name of the OS of the host?
-Interestingly no exact matches of the OS was found on my nmap scan. But it did print out "aggressive OS guesses" of which Linux was 91%.
+Interestingly no exact matches of the OS was found on my nmap scan. But it did print out "aggressive OS guesses" of which Linux was 91%. But when running the port scan on `-p 1-1000` I was able to notice the OS.
 
 ## What version of SSH is running? 	
 Nmap printed these results.
